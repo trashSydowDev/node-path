@@ -16,49 +16,23 @@
 
 Topic | Books | Price | Release
 :-- | :-- | :--: | :--:
-Learn JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
-ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | June 2015
-Tooling | [Setting up ES6](https://leanpub.com/setting-up-es6/read) | :free: | January 2016
-Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :free: | March 2014
-DOM | [DOM Enlightenment](http://domenlightenment.com/) | :free: | February 2013
-Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | :free: | -
-Design Patterns | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free: | July 2012
-Workflow | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag: | January 2015
-Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
-Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
+Learn Node.js | [Hands-on Node.js](https://leanpub.com/hands-on-nodejs) | :moneybag: | December 2011
+Learn Node.js | [Node Beginner Book](https://leanpub.com/nodebeginner) | :moneybag: | May 2012
+REST APIs | [Building APIs with Node.js](https://leanpub.com/building-apis-with-nodejs) | :moneybag: | February 2016
+NPM | [NPM Recipes](https://leanpub.com/npm-recipes) | :free: | July 2014
 
 ## Additional Resources
-
-### Going Deep
-
-Books | Price | Release
-:-- | :--: | :--:
-[Building APIs with Node.js](https://leanpub.com/building-apis-with-nodejs) | :moneybag: | February 2016
-
-### Testing
-
-Books | Price | Release
-:-- | :--: | :--:
-[Test-Driven JavaScript Development](http://tddjs.com/) | :moneybag: | September 2010
-[Behaviour Driven Development with JavaScript](http://developerpress.com/BehaviourDrivenDevelopmentwithJavaScript-175419) | :moneybag: | November 2013
 
 ### Design Patterns
 
 Books | Price | Release
 :-- | :--: | :--:
 [Module Patterns](https://leanpub.com/modulepatterns) | :free: | May 2015
-[Module Patterns](https://leanpub.com/modulepatterns) | :free: | May 2015[Module Patterns](https://leanpub.com/modulepatterns) | :free: | May 2015[Module Patterns](https://leanpub.com/modulepatterns) | :free: | May 2015
-https://leanpub.com/flowcontrolpatterns
-https://leanpub.com/workqueuepatterns
-https://leanpub.com/networkingpatterns
-https://leanpub.com/configurationpatterns
-https://leanpub.com/databasepatterns
-
-### Performance
-
-Books | Price | Release
-:-- | :--: | :--:
-[High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | :moneybag: | March 2010
+[Flow Control Patterns](https://leanpub.com/flowcontrolpatterns) | :moneybag: | January 2015
+[Work Queue Patterns](https://leanpub.com/workqueuepatterns) | :moneybag: | March 2015
+[Networking Patterns](https://leanpub.com/networkingpatterns) | :moneybag: | September 2015
+[Configuration Patterns](https://leanpub.com/configurationpatterns) | :moneybag: | November 2014
+[Database Patterns](https://leanpub.com/databasepatterns) | :moneybag: | December 2014
 
 ## How to Use This List
 
